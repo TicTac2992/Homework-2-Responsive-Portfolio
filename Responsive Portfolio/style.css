@@ -25,3 +25,10 @@
 h1 { font-family: 'Dancing Script', cursive;
     text-align: center;
 }
+
+h2 { font-family: 'Dancing Script', cursive;
+    font-size: 12px
+    }
+
+.form-group {font-family: 'Dancing Script', cursive;
+            }
