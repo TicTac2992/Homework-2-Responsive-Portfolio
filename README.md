@@ -7,7 +7,7 @@
   * [Tests](#Tests)
   * [Questions](#Questions)
   ## Description
-  The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they   may be a mix of engineers and interns. This is a node.js application. 
+  This is my updated portfolio showcasing the work I have accomplished while enrolled in the Part-Time Full Stack Web Development Bootcamp at Vanderbilt University.
   ## License
   GPLv3   ![License](https://img.shields.io/badge/License-%202.0-blue.svg)
   ## Contributing
